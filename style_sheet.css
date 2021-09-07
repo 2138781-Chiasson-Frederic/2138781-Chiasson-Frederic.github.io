@@ -1,0 +1,19 @@
+#titrePage {
+    color:red;
+    font-size: 3em;
+    text-align: center;
+}
+p::first-letter {
+    font-size : 2em;
+    text-align: justify;
+    font-style: italic;
+}
+#paragraphe1::first-letter {
+    color:purple;
+}
+p::first-letter {
+    color:green;
+}
+.titre {
+    color:lime
+}
